@@ -1,6 +1,6 @@
 const Paciente = () => {
   return (
-    <div className="m-3 bg-white shadow-md rounded-lg py-10 px-5">
+    <div className="mx-5 my-10 bg-white shadow-md rounded-lg py-10 px-5">
           <p className="font-bold mb-3 text-gray-700 uppercase">Nombre:<span className="font-normal normal-case"> Gordo</span></p>
           <p className="font-bold mb-3 text-gray-700 uppercase">Propietario:<span className="font-normal normal-case"> Luis</span></p>
           <p className="font-bold mb-3 text-gray-700 uppercase">Email:<span className="font-normal normal-case"> Admin@admin.com</span></p>
